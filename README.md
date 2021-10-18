@@ -5,7 +5,7 @@ description: >-
   platform and MeanFi.
 ---
 
-# Guia de MeanFi (no oficial / community)
+# Guia de MeanFi (no oficial / community-driven)
 
 ## Is this guide approved by the community?
 
