@@ -1,39 +1,43 @@
 ---
-description: >-
-  This site is maintained by the Mean DAO community and serves as a resource to
-  explore the breadth of DeFi applications associated with the Mean Protocol
-  platform and MeanFi.
+description: El ecualizador financiero para personas y empresas en todo el mundo
 ---
 
-# Unofficial Guide to MeanFi
+# Guia de uso para MeanFi
 
-## Is this guide approved by the community?
+La Mean DAO es una organización autónoma descentralizada (DAO) con un único fin:
 
-This guide was written by members of the Mean Community community, also known as Mean Apes, to explore the MeanFi decentralized platform in greater detail and present a variety of DeFi strategies by which users can derive additional value from the platform.
+> Crear los productos descentralizados y la infraestructura de cadenas de bloqueo necesaria para actuar como el ecualizador financiero para las personas y las empresas en todo el mundo.
 
-This is not an official guide for Mean DAO, MeanFi, or Mean Protocol, nor it should be construed as financial advice. As always with DeFi and cryptocurrency in general, do your own research, and only invest what you’re comfortable with potentially losing.
+Para alcanzar este objetivo final, el DAO financia y opera el Protocolo Mean y la aplicación descentralizada MeanFi web3.
 
-## Where can I find the official documentation?
 
-Official documentation for the Mean DAO: [docs.meanfi.com](https://docs.meanfi.com)
 
-## What's the link for the application?
+Más información sobre el DAO y cómo funciona en <mark style="color:red;">el Mean DAO Página de Gobierno</mark> _._¿Buscando la tokenomía y los gustos? Seguir leyendo en <mark style="color:red;">la página Token MEAN.</mark>
 
-The MeanFi application can be found here: [app.meanfi.com](https://app.meanfi.com)
+Si usted es un desarrollador, buscando aprovechar cualquiera de los legos de dinero del Protocolo Mean, diríjase a <mark style="color:red;">la página de Desarrolladores</mark> y nos golpee en la <mark style="color:red;">Discordia de la Comunidad</mark>, somos un grupo de ayuda y nos encanta buscar en público.
 
-## What will I find on this website?
+Asegúrese de mantenerse en contacto con las últimas noticias seguiéndonos en [<mark style="color:red;">Twitter</mark>](https://twitter.com/meanfinance).&#x20;
 
-The goal of this website is to present a variety of tutorials, getting started guides, and investment strategies that utilize the MeanFi. Topic samples include managing money streams, DCA, vaults, borrowing and repayments, and how to integrate Mean Finance into other DeFi protocols/strategies.
+### **Protocolo Mean**
 
-Lastly, information on how to efficiently use Mean DAO's native token, MEAN, will be provided, as they develop.
+El Protocolo Mean es un conjunto de reglas y contratos inteligentes interoperables que ayudan a los desarrolladores de aplicaciones a facilitar los flujos de trabajo bancarios cotidianos y las operaciones bancarias de inversión.
 
-## What will I not find on this website?
+El Protocolo Mean es mantenido por el DAO Mean y es desplegado en <mark style="color:red;">la cadena de Bloqueo de Solana</mark>. El protocolo facilita la coordinación de transacciones mediante varios subgráficos y programas, como los programas Agregador de liquidez híbrido, DDCA y Transmisión de dinero. Para explorar todos los diferentes componentes del Protocolo Mean, diríjase a <mark style="color:red;">la Página del Desarrollador</mark>.
 
-Some assumptions we are making are:
+### MeanFi
 
-* Readers are already aware of DeFi projects on Solana, and the Solana Ecosystem in general.
-* Have a good understanding of how cryptocurrency works, and are informed of the different risks related to the cryptocurrency industry in general.
+<mark style="color:red;"></mark>[<mark style="color:red;">MeanFi</mark>](https://www.meanfi.com) <mark style="color:red;"></mark>Para explorar todos los diferentes componentes del Protocolo Media, diríjase a la Página del Desarrollador.
 
-If you have questions about the Tokenomics of MEAN, and other basic tenants of the Mean Protocol and MeanFi, please read the official documentation (link above) or join the [Discord](https://discord.meanfi.com) community.
+MeanFi es una aplicación web3 de producción y una implementación de referencia de los contratos inteligentes del Protocolo Mean que los desarrolladores pueden usar como punto de referencia para crear aplicaciones que aprovechen el Protocolo Mean.
 
-There is no OFFICIAL Telegram Community. If you join an unofficial group, do so at your own risk.
+## **Enlaces y Recursos**
+
+Sitio web: [<mark style="color:red;">https://meanfi.com/</mark>](https://meanfi.com)<mark style="color:red;"></mark>
+
+Aplicación MeanFi: [<mark style="color:red;">https://app.meanfi.com/</mark>](https://app.meanfi.com) <mark style="color:red;"></mark>
+
+Discord: [<mark style="color:red;">https://discord.gg/qBKDgm49js</mark>](https://discord.gg/qBKDgm49js)<mark style="color:red;"></mark>
+
+Twitter: [<mark style="color:red;">https://twitter.com/meanfinance</mark>](https://twitter.com/meanfinance)<mark style="color:red;"></mark>
+
+Hoja de ruta: [<mark style="color:red;">https://meanfi.notion.site/meanfi/MEAN-ROADMAP-46cac5e5a4594b40b8cd730daa6b4995</mark>](https://meanfi.notion.site/meanfi/MEAN-ROADMAP-46cac5e5a4594b40b8cd730daa6b4995)<mark style="color:red;"></mark>

@@ -1,15 +1,15 @@
 # Table of contents
 
-* [Unofficial Guide to MeanFi](README.md)
+* [Guia de uso para MeanFi](README.md)
 
 ## Getting Started
 
 * [Connecting your Wallet](getting-started/connecting-to-meanfi.md)
-* [Accounts](getting-started/accounts.md)
-* [Exchange](getting-started/your-wallet.md)
-* [Transfers](getting-started/transfers.md)
-* [Deposits](getting-started/deposits.md)
-* [Withdrawals](getting-started/withdrawals.md)
+* [Cuentas](getting-started/accounts.md)
+* [Intercambios](getting-started/your-wallet.md)
+* [Transferencias](getting-started/transfers.md)
+* [Depositos](getting-started/deposits.md)
+* [Retiros De Cuenta](getting-started/withdrawals.md)
 * [Tools & Services](getting-started/tools-and-services.md)
 
 ## Mean University
