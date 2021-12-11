@@ -1,3 +1,3 @@
-# Remittances
+# Remesas
 
-This is how you can send payments to family or friends back home using MeanFi's Transfers.
+Así es como puedes enviar pagos a familiares o amigos en tu país utilizando las transferencias de MeanFi.

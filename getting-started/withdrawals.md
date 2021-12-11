@@ -2,12 +2,12 @@
 description: How to withdraw your Transfers and Money Streams
 ---
 
-# Withdrawals
+# Retiros De Cuenta
 
-### **Withdrawals (for Transfers)**
+### Retiradas (para transferencias)
 
-When you are the recipient of a transfer, you'll see the incoming transfers under the Transfers tab. The amount available for withdrawal is shown in the transfer details.
+Cuando usted es el destinatario de una transferencia, verá las transferencias entrantes en la pestaña Transferencias. El importe disponible para retirar se muestra en los detalles de la transferencia.
 
 ![](../.gitbook/assets/withdrawal.png)
 
-When you are ready to withdraw, simply click on the "Withdraw funds" button, and specify the amount. After the withdrawal is confirmed in your wallet, the money will show up under the corresponding account.
+Cuando esté listo para retirar, simplemente haga clic en el botón "Retirar fondos", y especifique la cantidad. Una vez confirmada la retirada en su monedero, el dinero aparecerá en la cuenta correspondiente.

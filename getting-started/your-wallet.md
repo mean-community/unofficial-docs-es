@@ -1,19 +1,19 @@
-# Exchange
+# Intercambios
 
-MeanFi allows you to exchange (aka swap) **SPL** **tokens** instantly and securely using the largest liquidity aggregator in the Solana ecosystem with access to more than $1.9 billion of instant optimized liquidity across the top decentralized exchanges and liquidity providers. With just one click you can swap **SOL**, **USDC**, **BTC**, **ETH**, and more** **right from the MeanFi Exchange tab. Check below the steps to do a swap. 
+MeanFi te permite intercambiar (también conocido como swap) tokens SPL de forma instantánea y segura utilizando el mayor agregador de liquidez en el ecosistema Solana con acceso a más de 1.900 millones de dólares de liquidez optimizada instantánea a través de los principales intercambios descentralizados y proveedores de liquidez. Con un solo clic puedes intercambiar SOL, USDC, BTC, ETH y más\*\* \*\* directamente desde la pestaña de MeanFi Exchange. Comprueba a continuación los pasos para hacer un swap.
 
 {% hint style="info" %}
-Connect your **Solana** **Wallet** first since the app needs it to check the balance of the tokens and to proceed with the swap.
+Conecta primero tu Solana Wallet ya que la app la necesita para comprobar el saldo de los tokens y proceder al canje.
 {% endhint %}
 
-1. **Navigate** to the **Exchange** menu item
-2. **Select **token to **Exchange** **from **and to **Exchange to **
-3. Under **Exchange** **from,** enter the amount you want to swap
-   1. There is a validation in place to show you the min value you need to enter in order to do this operation.  
-   2. Notice when you enter an amount the **Exchange to** will show an estimate of the amount you will get. 
-4. Check for the network fees and the total you will get and click on **Approve on your wallet **to complete the transaction. 
-5. Funds should reflect immediately in your Account. 
+1. Navegue hasta la opción de menú Exchange
+2. \*\*Seleccione \*\*fichas para intercambiar \*\*desde \*\*y para \*\*intercambiar a \*\*
+3. En Intercambio de, introduzca el importe que desea intercambiar
+   1. Existe una validación que le muestra el valor mínimo que debe introducir para realizar esta operación.
+   2. Fíjese que cuando introduzca una cantidad, el Intercambio a mostrará una estimación de la cantidad que obtendrá.
+4. Comprueba las tarifas de la red y el total que obtendrás y haz clic en **Aprobar en tu cartera** para completar la transacción.
+5. Los fondos deberían reflejarse inmediatamente en su Cuenta.
 
 {% hint style="info" %}
-Keep in mind that our system will do some validations that will warn you whether you have insufficient funds, or if there is limited liquidity for this trade that may negatively impact the price.  
+Tenga en cuenta que nuestro sistema hará algunas validaciones que le advertirán si tiene fondos insuficientes, o si hay liquidez limitada para esta operación que pueda impactar negativamente en el precio.
 {% endhint %}

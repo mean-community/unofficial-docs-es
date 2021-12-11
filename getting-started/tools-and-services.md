@@ -2,18 +2,18 @@
 description: Additional tools and services you can access through MeanFi
 ---
 
-# Tools & Services
+# Herramientas y servicios
 
-### Payroll
+### Nómina
 
-Save time, make payroll easy—in fact, we don't think your job could be any easier. All you need to do is set up the automatic payroll with the rate and frequency desired.
+Ahorre tiempo, facilite el pago de las nóminas; de hecho, no creemos que su trabajo pueda ser más fácil. Todo lo que tiene que hacer es configurar la nómina automática con la tasa y la frecuencia deseada.
 
-Payroll money streams work for employees with a long-term contract (monthly or yearly salaries), and for those more actively managed that require employees to clock-in and clock-out to count their worked hours.
+Los flujos de dinero de las nóminas funcionan para los empleados con un contrato a largo plazo (sueldos mensuales o anuales), y para aquellos que se gestionan de forma más activa y que requieren que los empleados fichen a la entrada y a la salida para contabilizar sus horas trabajadas.
 
-In either case, MeanFi Payroll makes the life of the employer and the employee easier and saves hours of paperwork, reminders, adjustments, and headaches. Check our [Payroll](https://app.meanfi.com/payroll) page for more information.
+En cualquiera de los casos, MeanFi Payroll facilita la vida del empresario y del empleado y ahorra horas de papeleo, recordatorios, ajustes y dolores de cabeza. Consulte nuestra [Payroll](https://app.meanfi.com/payroll) para más información.
 
-### Institutional Custody
+### Custodia institucional
 
-Offers a secure custody solution for institutions so they can safely invest in crypto assets. With our platform, you can access multiple venues through one onboarding process and borrow USD or EUR against your crypto collateral or lend out your cryptocurrency holdings and earn returns on them while they're under custody with us.
+Ofrece una solución de custodia segura para que las instituciones puedan invertir con seguridad en criptoactivos. Con nuestra plataforma, puede acceder a múltiples lugares a través de un proceso de incorporación y pedir préstamos en USD o EUR contra su garantía de criptomonedas o prestar sus tenencias de criptomonedas y obtener rendimientos de ellas mientras están bajo nuestra custodia.
 
-We make it easy for institutional investors of any size to participate with treasuries starting at $1,000,000. If you prefer an actively managed crypto-portfolio with the safety of a traditional financing system, fill the form on the [Custody](https://app.meanfi.com/custody) page for inquiries.
+Facilitamos la participación de inversores institucionales de cualquier tamaño con tesorerías a partir de 1.000.000 de dólares. Si prefiere una criptocartera gestionada activamente con la seguridad de un sistema de financiación tradicional, rellene el formulario del [Custody](https://app.meanfi.com/custody) página para consultas.

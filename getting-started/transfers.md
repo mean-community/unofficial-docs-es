@@ -1,31 +1,31 @@
-# Transfers
+# Transferencias
 
-With MeanFi transferring money is easy and inexpensive. As a global decentralized financial platform, you can send instant payments anywhere in the world at almost zero cost. You can configure single payments to send now or schedule them in the future as well as set up money streams for recurrent payments with the desired payment rate per hour, day, month, and more.  
+Con MeanFi transferir dinero es fácil y barato. Como plataforma financiera global descentralizada, puedes enviar pagos instantáneos a cualquier parte del mundo a un coste casi nulo. Puedes configurar pagos únicos para enviarlos ahora o programarlos en el futuro, así como configurar flujos de dinero para pagos recurrentes con la tasa de pago deseada por hora, día, mes y más.
 
 {% hint style="info" %}
- Connect your **Solana** **Wallet** first since the app needs it to initiate the transfers, payroll payments, and money streams. 
+Conecte primero su Solana Wallet ya que la aplicación lo necesita para iniciar las transferencias, pagos de nóminas y flujos de dinero.
 {% endhint %}
 
-### **One-Time Payments**
+### Pagos únicos
 
-1. **Navigate** to **Transfers** menu item
-2. **Click **on **Create new transfer**
-3. **Select **option for **One-Time Payment**
-   1. Once you click **Next** you will get to a form where you will fill in specific information to make the payment. 
-      1. **Solana** **address** for the **recipient**
-      2. **Amount** and **Token **to send
-      3. Schedule **Date** (_it will be pre-populated with today's date, which will send immediately_)  
-      4. Adding **Notes **is optional
+1. Ir a la opción de menú Transferencias
+2. \*\*Haga clic \*\*en Crear nueva transferencia
+3. \*\*Seleccione la opción de pago único
+   1. Una vez que haga clic en Siguiente llegará a un formulario en el que rellenará información específica para realizar el pago.
+      1. Dirección de Solana para el destinatario
+      2. Importe y \*\*Token \*\* a enviar
+      3. Fecha de programación (se rellenará previamente con la fecha de hoy, que se enviará inmediatamente)
+      4. Añadir **Notas** es opcional
 
-### **Repeating Payments**
+### Repetición de pagos
 
-1. **Navigate** to **Transfers** menu item
-2. **Click **on **Create new transfer**
-3. **Select **option for **Repeating Payment**
-4. Once you click **Next** you will get to a form where you will fill in specific information to create the repeating payment. 
-   1. **Solana** **address** for the **recipient**
-   2. **Amount** and **Token **to send
-   3. **Rate **and** Frequency **
-   4. Schedule **Date** (_it will be pre-populated with today's date, which means it will start streaming money immediately_)  
-   5. The** amount** to fund this money stream
-   6. Adding **Notes **is optional
+1. Ir a la opción de menú Transferencias
+2. \*\*Haga clic \*\*en Crear nueva transferencia
+3. \*\*Seleccione la opción de repetir el pago
+4. Una vez que haga clic en Siguiente, llegará a un formulario en el que rellenará información específica para crear el pago repetido.
+   1. Dirección de Solana para el destinatario
+   2. Importe y \*\*Token \*\* a enviar
+   3. \*\*Tarifa y frecuencia \*\*
+   4. Fecha de programación (se rellenará previamente con la fecha de hoy, lo que significa que empezará a transmitir el dinero inmediatamente)
+   5. La\*\* cantidad\*\* para financiar este flujo de dinero
+   6. Añadir **Notas** es opcional
