@@ -20,7 +20,7 @@
 
 ## Medium Articles
 
-* [The Mean Protocol and MeanFi](medium-articles/the-mean-protocol-and-meanfi.md)
+* [El protocolo Mean y MeanFi](medium-articles/the-mean-protocol-and-meanfi.md)
 * [Mean DAO se asocia con Grape Protocol](medium-articles/mean-dao-se-asocia-con-grape-protocol.md)
 
 ## Get involved
