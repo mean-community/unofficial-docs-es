@@ -22,6 +22,7 @@
 
 * [El protocolo Mean y MeanFi](medium-articles/the-mean-protocol-and-meanfi.md)
 * [Mean DAO se asocia con Grape Protocol](medium-articles/mean-dao-se-asocia-con-grape-protocol.md)
+* [El Lanzamiento del token MEAN e IDO](medium-articles/el-lanzamiento-del-token-mean-e-ido.md)
 
 ## Get involved
 
